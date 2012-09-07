@@ -1,0 +1,4 @@
+FinalSourceForAFD
+=================
+
+afd12thversion
